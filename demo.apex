@@ -1,1 +1,2 @@
-hitnijnsd
+class application{
+}
